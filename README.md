@@ -1,2 +1,2 @@
 # Introduction-to-Viability-Kernel
-A Toy Model for Computing of Viability Kernel: Car on the Hill
+Please read the pdf document for problem definition and detailed explanations. 
